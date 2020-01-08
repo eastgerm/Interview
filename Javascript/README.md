@@ -178,4 +178,4 @@
           return x + y;
         };
         console.log(add(3, 4)); // 7
-        ```정
+        ```
