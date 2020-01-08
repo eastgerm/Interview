@@ -11,11 +11,11 @@
 ### arrow 함수의 this가 결정되는 방식을 설명해보세요.
 ### undefined와 null의 차이점을 설명하세요.
 ### 아래처럼 동작하는 flatten함수를 reduce를 활용해서 만들어보세요.
-    ```js
-      const arr = [[1, 2], [3, 4], [5, 6]];
-      const flattenedArray = flatten(arr);
-      console.log(flattenedArray)  //[1, 2, 3, 4, 5, 6];
-    ```
+```js
+const arr = [[1, 2], [3, 4], [5, 6]];
+const flattenedArray = flatten(arr);
+console.log(flattenedArray)  //[1, 2, 3, 4, 5, 6];
+``` 
 ### 객체를 복사해서 새로운 객체를 만들고 싶습니다. 코드를 구현해보세요. (객체의 깊이는 1단계만 있다고 가정)
 ### Array.from 이 모든 브라우저에서 동작하도록 polyfill코드를 만들어보세요.
 ### prototype 의 동작방식에 대해서 설명해보세요.
