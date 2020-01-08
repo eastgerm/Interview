@@ -10,6 +10,7 @@
 
 ## Javascript
 - [1. == 와 === 의 차이점](https://github.com/eastgerm/Interview/tree/master/Javascript#-%EB%B3%B4%EB%8B%A4--%EB%A5%BC-%EC%8D%A8%EC%95%BC%ED%95%A0%EB%95%8C%EB%8A%94)
+- [2. 자바스크립트 데이터 타입](https://github.com/eastgerm/Interview/tree/master/Javascript#2-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85)
 
 ## Node
 
