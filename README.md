@@ -21,6 +21,7 @@
 
 ## React
 - [1. 서버사이드 렌더링(SSR)은 무엇인가 (작성 중)](https://github.com/eastgerm/Interview/tree/master/React#1-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81ssr%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+- [2. 리액트 키워드 모음집](https://github.com/eastgerm/Interview/tree/master/React#2-react-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%AA%A8%EC%9D%8C%EC%A7%91)
 
 ## Web
 - [1. 브라우저의 렌더링 동작과정 (작성 중)](https://github.com/eastgerm/Interview/tree/master/Web#1-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95)
